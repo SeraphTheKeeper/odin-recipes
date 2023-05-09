@@ -1,0 +1,19 @@
+html {
+    background-color: #e9e9b9;
+}
+
+body {
+    font-family: Helvetica, Garamond, sans-serif;
+    font-size: 20px;
+}
+
+h1 {
+    font-family: "DejaVu Sans", Tahoma, sans-serif;
+    font-size: 36px;
+    font-weight: 600;
+    color: red;
+}
+
+a {
+    color: black;
+}
